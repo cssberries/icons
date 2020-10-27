@@ -1,0 +1,20 @@
+{
+    "name": "cssberries-icons",
+    "version": "1.0.0",
+    "description": "Glyph icons for StormRunner Load",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com:cssberries/icons.git"
+    },
+    "keywords": [
+        "icons"
+    ],
+    "author": "Yevgeniy Belov",
+    "license": "ISC",
+    "devDependencies": {
+        "grunt": "1.0.1",
+        "grunt-webfont": "1.7.2",
+        "grunt-bump": "^0.8.0"
+    }
+}
